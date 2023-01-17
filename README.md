@@ -18,7 +18,7 @@ Go to the root folder of the project and open the command prompt. Then use the c
 **Run**    
 `java -cp temp Main`
 
-## Screenshots
+## Screenshots of Output
 
 **1) Start of the program**  
 
