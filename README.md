@@ -4,6 +4,10 @@
 
 [Github Repo](https://github.com/PasinduUd/the-senate-bus-problem)
 
+## Prerequisites
+
+JDK 1.8 or higher
+
 ## Compile and Run the program
 
 Go to the root folder of the project and open the terminal. Then use the commands below to compile and run.
