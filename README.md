@@ -8,7 +8,7 @@
 
 JDK 1.8 or Higher
 
-## Compile and Run the program
+## Compile and Run the Program
 
 Go to the root folder of the project and open the command prompt. Then use the commands given below to compile and run the code.
 
