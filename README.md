@@ -14,4 +14,4 @@ Go to the root folder of the project and open the terminal. Then use the command
 
 ## Screenshots
 
-![Start of the program](./Output Screenshots/1 - Start of the program.png)
+![Start of the program](./Output Screenshots/1 - Start of the program.png?raw=true "Start of the program")
